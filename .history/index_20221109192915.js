@@ -31,14 +31,13 @@ function preserveDecimal(n) {
     return parseFloat(n);
 }
 
-
+console.log(increment(10));
+console.log(decrement(10));
 /*
 console.log(add(7,4));
 console.log(subtract(7,4));
 console.log(multiply(7,4));
 console.log(divide(7,4));
-console.log(increment(10));
-console.log(decrement(10));
 console.log(makeInt("456.7854"));
 console.log(makeInt(456.7854));
 console.log(makeInt("asfasd.2854"));
